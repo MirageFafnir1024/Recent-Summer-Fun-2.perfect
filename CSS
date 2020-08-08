@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<title>CSS</title>
+<style>
+.summer{
+text-align: center;
+color: darkorange;
+background-color: yellow;
+font-family: Times-New-Roman;
+border-style: double;
+border-width: 5px;
+margin: 20px;
+}
+.fun{
+text-align: center;
+color: yellow;
+background-color: blue;
+font-family: Times-New-Roman;
+border-style: double;
+border-width: 5px;
+margin: 20px;
+}
+.meh{
+border-style: double;
+border-width: 10px;
+color: red;
+}
+</style>
+</html>
